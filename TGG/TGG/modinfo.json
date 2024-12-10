@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "modid": "tgg",
+  "name": "Temporal Gear Give",
+  "authors": [
+    "temaaa"
+  ],
+  "description": "The mod adds a command to issue temporary equipment",
+  "version": "0.3.0",
+  "dependencies": {
+    "game": "1.19.8"
+  }
+}
