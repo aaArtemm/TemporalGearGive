@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{2441C8C1-C56B-4E31-A96E-F57C6484707A}|TGG\\TGG\\TGG.csproj|solutionrelative:tgg\\tgg\\tggmodsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2441C8C1-C56B-4E31-A96E-F57C6484707A}|TGG\\TGG\\TGG.csproj|c:\\projectsmodsvintage\\tgg\\tgg\\tgg\\modinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2441C8C1-C56B-4E31-A96E-F57C6484707A}|TGG\\TGG\\TGG.csproj|solutionrelative:tgg\\tgg\\modinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2441C8C1-C56B-4E31-A96E-F57C6484707A}|TGG\\TGG\\TGG.csproj|c:\\projectsmodsvintage\\tgg\\tgg\\tgg\\src\\commandhandlers\\resetgivegear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2441C8C1-C56B-4E31-A96E-F57C6484707A}|TGG\\TGG\\TGG.csproj|solutionrelative:tgg\\tgg\\src\\commandhandlers\\resetgivegear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "modinfo.json",
-              "DocumentMoniker": "C:\\ProjectsModsVintage\\TGG\\TGG\\TGG\\modinfo.json",
-              "RelativeDocumentMoniker": "TGG\\TGG\\modinfo.json",
-              "ToolTip": "C:\\ProjectsModsVintage\\TGG\\TGG\\TGG\\modinfo.json",
-              "RelativeToolTip": "TGG\\TGG\\modinfo.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-07T15:40:08.231Z"
+              "Title": "ResetGiveGear.cs",
+              "DocumentMoniker": "C:\\ProjectsModsVintage\\TGG\\TGG\\TGG\\src\\CommandHandlers\\ResetGiveGear.cs",
+              "RelativeDocumentMoniker": "TGG\\TGG\\src\\CommandHandlers\\ResetGiveGear.cs",
+              "ToolTip": "C:\\ProjectsModsVintage\\TGG\\TGG\\TGG\\src\\CommandHandlers\\ResetGiveGear.cs",
+              "RelativeToolTip": "TGG\\TGG\\src\\CommandHandlers\\ResetGiveGear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:20:29.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +41,7 @@
               "RelativeDocumentMoniker": "TGG\\TGG\\TGGModSystem.cs",
               "ToolTip": "C:\\ProjectsModsVintage\\TGG\\TGG\\TGG\\TGGModSystem.cs",
               "RelativeToolTip": "TGG\\TGG\\TGGModSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T15:40:08.386Z",
               "EditorCaption": ""
