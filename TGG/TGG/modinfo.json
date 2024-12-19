@@ -7,7 +7,7 @@
   ],
   "description": "The mod adds a command to issue temporary equipment",
   "version": "0.3.0",
-  "dependencies": {
-    "game": ["1.20+"]
-  }
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "gameversions": [ "1.20+" ]
 }
