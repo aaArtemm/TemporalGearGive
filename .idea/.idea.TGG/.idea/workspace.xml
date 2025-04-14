@@ -9,22 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="678439fd-2174-4d8a-a543-544bbeb20476" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/riderModule.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/tgg.metadata.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/tgg.metadata.v9.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/tgg.projects.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/tgg.projects.v9.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TGG/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TGG/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TGG/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TGG/v17/.futdcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TGG/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TGG/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TGG/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TGG/v17/DocumentLayout.backup.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TGG.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TGG.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TGG/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/TGG/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TGG/TGG/TGGModSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TGG/TGG/TGGModSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TGG/TGG/src/CommandHandlers/GiveGear.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TGG/TGG/src/CommandHandlers/GiveGear.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TGG/TGG/modinfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/TGG/TGG/modinfo.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +128,7 @@
       <workItem from="1741550849221" duration="1497000" />
       <workItem from="1742141770814" duration="1587000" />
       <workItem from="1742147884039" duration="48000" />
-      <workItem from="1744651600870" duration="8036000" />
+      <workItem from="1744651600870" duration="8724000" />
     </task>
     <servers />
   </component>
