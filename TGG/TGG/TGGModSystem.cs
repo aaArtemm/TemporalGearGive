@@ -22,17 +22,17 @@ namespace TGG
         {
             return forSide == EnumAppSide.Server;
         }
-        
+
         public override void StartServerSide(ICoreServerAPI api)
         {
             ServerApi = api;
             PlayerData = new ServerPlayerData();
 
             ServerApi.Event.PlayerJoin += OnPlayerJoined;
-            
+
             ServerApi.RegisterCommand("givegear", "give temporal gear", "", GiveGear.Execute, Privilege.chat);
-            ServerApi.RegisterCommand("rgivegear", "give temporal gear", "", ResetGiveGear.Execute, Privilege.ban);
-        }
+            ServerApi.RegisterCommand("rgivegear", "reset give temporal gear", "", ResetGiveGear.Execute, Privilege.ban);
+    }
 
         private void OnPlayerJoined(IServerPlayer player)
         {

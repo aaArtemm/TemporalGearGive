@@ -4,27 +4,46 @@
     <projectFile>TGG/TGG/TGG.csproj</projectFile>
     <projectFile>TGG/ZZCakeBuild/CakeBuild.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="678439fd-2174-4d8a-a543-544bbeb20476" name="Default Changelist" comment="" />
+    <list default="true" id="678439fd-2174-4d8a-a543-544bbeb20476" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TGG/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/tgg.metadata.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/tgg.metadata.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/tgg.projects.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/tgg.projects.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/TGG/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TGG/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/TGG/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TGG/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/TGG/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TGG/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/TGG/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TGG/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TGG.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TGG.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TGG/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/TGG/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TGG/TGG/TGGModSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TGG/TGG/TGGModSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TGG/TGG/src/CommandHandlers/GiveGear.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TGG/TGG/src/CommandHandlers/GiveGear.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1F9F1D6-5639-4EE5-BB78-C49D93C5E56F/f5/9c808fb9/PlayersArgParser.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1F9F1D6-5639-4EE5-BB78-C49D93C5E56F/92/3d8d633e/AssetLocation.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B62BCDBD-939D-4018-B3C2-BA85ECFFCE6A/21/27449e74/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1F9F1D6-5639-4EE5-BB78-C49D93C5E56F/b3/a153f18e/Privilege.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/21F82F5B-B7F1-4F84-B700-C07E682AC4A6/3b/82a25805/PlayerDataManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1F9F1D6-5639-4EE5-BB78-C49D93C5E56F/98/11b99341/ModSystem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/21F82F5B-B7F1-4F84-B700-C07E682AC4A6/bb/cc7a56e0/ServerPlayerData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4DD82EB-FF7A-472D-87D8-5DF3653210B2/32/d84dcd11/ErrorReporter.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1F9F1D6-5639-4EE5-BB78-C49D93C5E56F/3b/05f7b42c/ICoreServerAPI.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1F9F1D6-5639-4EE5-BB78-C49D93C5E56F/11/5cd37326/IServerPlayerData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1F9F1D6-5639-4EE5-BB78-C49D93C5E56F/a3/ec4dd804/IServerEventAPI.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1F9F1D6-5639-4EE5-BB78-C49D93C5E56F/df/1dfa2caa/IPlayerDataManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1F9F1D6-5639-4EE5-BB78-C49D93C5E56F/cd/802aa5f9/IServerPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6ecc8bbd4794444d9ae7da87870ec5ce1d5c00/40/973ea00f/IPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6ecc8bbd4794444d9ae7da87870ec5ce1d5c00/ae/c484884b/ItemSlot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6ecc8bbd4794444d9ae7da87870ec5ce1d5c00/f4/9364b015/IPlayerInventoryManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ad918bff100c4dbab4f5646191bfc7a11d6000/67/de7b54ef/ItemStack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ad918bff100c4dbab4f5646191bfc7a11d6000/73/806a31ac/IInventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/767db1e17d404f86c3c73c54c6b20b5ff9ec43b79ef47681ae34b40a6852cf9/Where.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -37,17 +56,31 @@
       <option value="$USER_HOME$/AppData/Roaming/VintagestoryData/Playerdata/playerdata.json" />
     </changedPaths>
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2lLJw0N3DJAvjrwUB5h7GPMm8Ki" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.TGG: Client">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.TGG: Client.executor": "Run",
+    ".NET Project.CakeBuild.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected=".NET Project.CakeBuild">
     <configuration name="CakeBuild" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -98,6 +131,25 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1741542561030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741542561030</updated>
+      <workItem from="1741542563322" duration="296000" />
+      <workItem from="1741543370717" duration="7327000" />
+      <workItem from="1741550849221" duration="1497000" />
+      <workItem from="1742141770814" duration="1587000" />
+      <workItem from="1742147884039" duration="48000" />
+      <workItem from="1744651600870" duration="8036000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
